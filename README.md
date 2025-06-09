@@ -1,8 +1,11 @@
-# Caching Proxy Server in Go
+<h3 align="center">
+  <img src = "https://i.giphy.com/JqmupuTVZYaQX5s094.webp" width="200px" alt="gif" />
 
-This project demonstrates how to build a **Caching Proxy Server** using **Go** programming language. The proxy server acts as an intermediary between clients and a backend server, caching responses to improve performance and reduce load on the backend.
+Caching Proxy Server in Go</h3>
 
----
+<div align="center" >
+This project demonstrates how to build a <b>Caching Proxy Server</b> using <b>Go</b> programming language. The proxy server acts as an intermediary between clients and a backend server, caching responses to improve performance and reduce load on the backend.
+</div>
 
 ## Introduction
 
@@ -28,7 +31,10 @@ The proxy server will:
 
 Below is a diagram illustrating the architecture:
 
-![Proxy Server Architecture](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*2_qWV3VEFWU1VYNBfvoQ9w.png)\---
+<div align="center" >
+ <img src = "https://miro.medium.com/v2/resize:fit:1100/format:webp/1*2_qWV3VEFWU1VYNBfvoQ9w.png"  alt="gif" />
+
+</div>
 
 ## Prerequisites
 
